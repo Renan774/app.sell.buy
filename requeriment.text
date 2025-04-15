@@ -1,0 +1,4 @@
+# Bibliotecas principais
+streamlit==1.32.2
+pandas==2.1.4
+sqlite3==3.39.4
